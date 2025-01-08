@@ -3,6 +3,7 @@ from discord.ext import commands
 import asyncio
 import requests
 
+# most ppl know this as nantibot / redtiger
 
 with open("token.txt", "r") as f:
     token = f.read()
